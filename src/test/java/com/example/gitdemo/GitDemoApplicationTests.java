@@ -10,4 +10,9 @@ class GitDemoApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void test() {
+
+    }
+
 }
