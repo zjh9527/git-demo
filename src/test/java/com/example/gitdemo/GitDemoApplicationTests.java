@@ -49,4 +49,9 @@ class GitDemoApplicationTests {
         System.out.println(len);
     }
 
+    @Test
+    void test() {
+
+    }
+
 }
